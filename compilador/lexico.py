@@ -33,7 +33,7 @@ class Lexico(object):
         self.tabla_de_simbolos = []
         self.tabla_de_funciones = []
         self.indice = -1
-        self.inicio_lexema = 0
+        self.inicio_lexema = 0 
         self.numero_de_linea = 1
         self.inicio = 0
         self.estado = 0
